@@ -96,6 +96,13 @@ nav {
   line-height: 41px;
   margin-bottom: 15px;
 }
+.col-left h4 {
+  font-size: 10px;
+  font-weight: 400;
+  color: #292423;
+  line-height: 41px;
+  margin-bottom: 15px;
+}
 .col-left p {
   width: 85%;
   font-weight: normal;
@@ -148,7 +155,7 @@ a.btn-main:hover span {
   padding: 40px 40px;
   background: rgba(255, 255, 255, 0.2);
   backdrop-filter: blur(42px);
-  border-radius: 10px;
+  border-radius: 20px;
 }
 
 .experience-inner {
@@ -201,7 +208,7 @@ a.btn-main:hover span {
     margin: 0px 0 4px 0;
   }
   .experience-section {
-    margin-top: 50px;
+    margin-top: 30px;
     padding: 0;
     background: transparent;
   }
@@ -211,7 +218,7 @@ a.btn-main:hover span {
   }
   .experience-inner .col {
     width: 100%;
-    padding: 40px 40px;
+    padding: 10px 10px;
     background: rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(42px);
     border-radius: 10px;
